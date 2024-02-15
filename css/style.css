@@ -1,0 +1,126 @@
+/* Menu*/
+header{
+    height: 70px;
+    background-color: #B2EBF2;
+}
+.logo{
+
+    width: 110px;
+    padding: 5px;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    margin-right: 25px;
+}
+
+nav ul li a{
+    padding: 10px;
+    color: #3d3838;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+/* body   */
+.splash{
+    
+    width: 100%;
+    height: 100vh;
+    background: url(../images/fondo_hora.jpg) center center fixed;
+  
+    background-size: cover;
+    
+}
+
+
+.splash h1{
+    margin-top: 10px;
+   
+    font-size:50px;
+   
+    padding: 10px;
+  
+    
+}
+.txt{
+    padding-top: 20vh;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.espacios{
+    padding: 100px;
+    padding-top: 50px ;
+    padding-right:50px
+    
+   
+}
+
+.content {
+    padding: 10px;
+
+}
+
+body {
+    color:#757575;
+}
+
+.card img{
+    height: 750px;
+    width: 500px;
+   
+}
+/*/BOTONES */
+
+.btn{
+    background-color: #7C4DFF;
+}
+
+.splash .btn{
+    width: 300px;
+    background-color: #7C4DFF;
+    color: white;
+    font-size: 20px;
+    /*float: center;*/
+   
+}
+
+.card .btn{
+
+    float: left;
+}
+
+
+/*/nueva seccion */
+
+#letritas{
+    background: #f2f2f2;
+    
+}
+i{
+color: #7C4DFF;
+}
+.pintadito{
+    background-color: #7C4DFF;
+    font-size: 25px;
+    color :white;
+    padding: 2px;
+}
+
+.frases i{
+
+    font-size: 50px;
+}
+
+.frases h2{
+
+    padding: 15px;
+}
+
